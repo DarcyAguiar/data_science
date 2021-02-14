@@ -9,6 +9,10 @@
  </p>
 
 # Darcy Aguiar
+Iniciei recentemente meus estudos em Data Science, usarei este espaço para compartilhar meus projetos. Atualmente sou Técnico de Suporte TI contribuindo com as equipes de desenvolvimento mobile e web em uma empresa focada em desenvolvimento de software de gestão, possuo 4 anos de experiência como suporte ao usuário, redes de computadores e testes de softwares.  
+
+É só o começo!
+
 <!--<sub>*Lead Data Scientist* at Space Operations Center</sub>
 
 As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
