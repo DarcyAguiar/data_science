@@ -24,6 +24,8 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 
 
 ## Projetos:
+* **Usando base de dados do Airbnb para analisar imóveis no Rio de Janeiro** https://bit.ly/3u9mvpE
+-->
 Veja os tutoriais publicados do Sigmoidal:
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
@@ -35,4 +37,4 @@ Veja os tutoriais publicados do Sigmoidal:
 * **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
 
 ---
--->
+
