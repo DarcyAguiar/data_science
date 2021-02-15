@@ -9,7 +9,7 @@
  </p>
 
 # Darcy Aguiar
-Iniciei recentemente meus estudos em Data Science, usarei este espaço para compartilhar meus projetos. Atualmente sou Técnico de Suporte TI contribuindo com as equipes de desenvolvimento mobile e web em uma empresa focada em desenvolvimento de software de gestão, possuo 4 anos de experiência como suporte ao usuário, redes de computadores e testes de softwares.  
+Iniciei recentemente meus estudos em Data Science, usarei este espaço para compartilhar meus projetos. Atualmente sou Técnico de Suporte TI contribuindo com as equipes de desenvolvimento mobile e web em uma empresa focada em desenvolvimento de software de gestão, possuo quatro anos de experiência como suporte ao usuário, redes de computadores e testes de softwares.  
 
 É só o começo!
 
