@@ -28,4 +28,4 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 -->
 
 ## Projetos:
-* **Usando base de dados do Airbnb para analisar imóveis em Paris** https://bit.ly/34CzmJ5
+* **Usando base de dados do Airbnb para analisar imóveis em Paris** https://bit.ly/3CdCPvA
