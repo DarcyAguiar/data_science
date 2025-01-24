@@ -14,7 +14,7 @@ Iniciei recentemente meus estudos em Data Science, usarei este espaço para comp
 
 
 
-Iniciei recentemente meus estudos em Data Science, usarei este espaço para compartilhar meus projetos. Profissional de TI com 9 anos de experiência em suportetécnico e infraestrutura, atualmente em transição para a área de dados, com foco em análise, modelagem e visualização
+Iniciei recentemente meus estudos em Dados e vou utilizar este espaço para compartilhar meus projetos. Sou um profissional de TI com 9 anos de experiência em suporte técnico e infraestrutura. Atualmente, estou em transição para a área de dados, com foco em análise, modelagem e visualização.
 
 É só o começo!
 
