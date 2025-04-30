@@ -39,6 +39,5 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 
 ## Projetos:
 * **Transformando Dados Categóricos em Valor: Um Estudo de Regressão** https://bit.ly/3Sj5PZP
-* **Usando base de dados do Airbnb para analisar imóveis em Paris** https://bit.ly/3CdCPvA
-* **Dashboard para Dados de Acidentes Aeronáuticos** http://bit.ly/3DLmwXj
-* **Pacman com Pygame(estrutura básica)** http://bit.ly/3jyGDkn
+* **Modelagem Estatística em Indicadores Socioeconômicos com Regressão Linear**https://bit.ly/4lUvZjm
+
