@@ -19,9 +19,13 @@ Iniciei recentemente meus estudos em Data Science, usarei este espaço para comp
 
 
 
-Iniciei recentemente meus estudos em Dados e vou utilizar este espaço para compartilhar meus projetos. Sou um profissional de TI com 9 anos de experiência em suporte técnico e infraestrutura. Atualmente, estou em transição para a área de dados, com foco em análise, modelagem e visualização.
+🎯 Sobre mim
 
-É só o começo!
+"Com 9 anos de experiência em Suporte Técnico e Infraestrutura de TI, desenvolvi uma base sólida em resolução de problemas e lógica computacional — habilidades que agora aplico em minha transição para Ciência de Dados. Meu foco atual está em Machine Learning, análise estatística, engenharia de features e Power BI, com o objetivo de criar modelos preditivos e soluções baseadas em dados.
+
+Aqui, compartilho projetos que refletem minha jornada: desde análises exploratórias até algoritmos de ML (como regressão, classificação e NLP), sempre com atenção à interpretabilidade dos resultados e ao impacto business. 
+
+Este portfólio é um convite para acompanhar minha evolução — e quem sabe colaborar em projetos desafiadores! Vamos conversar?"
 
 <!--<sub>*Lead Data Scientist* at Space Operations Center</sub>
 
