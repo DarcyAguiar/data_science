@@ -25,7 +25,7 @@ Iniciei recentemente meus estudos em Data Science, usarei este espaço para comp
 
 Aqui, compartilho projetos que refletem minha jornada: desde análises exploratórias até algoritmos de ML (como regressão, classificação e NLP), sempre com atenção à interpretabilidade dos resultados e ao impacto business. 
 
-Este portfólio é um convite para acompanhar minha evolução e, quem sabe, colaborar em projetos desafiadores. Vamos conversar?"
+Este portfólio registra minha evolução e abre portas para colaborações em projetos desafiadores. Vamos conversar?
 
 <!--<sub>*Lead Data Scientist* at Space Operations Center</sub>
 
