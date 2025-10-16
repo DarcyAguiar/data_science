@@ -2,6 +2,23 @@
 
 Este projeto consiste em um dashboard de Business Intelligence desenvolvido para fornecer uma **análise completa e interativa do desempenho operacional e financeiro de uma frota de transporte e logística**. O objetivo é transformar dados transacionais brutos em insights estratégicos para otimização de custos, planejamento de rotas e maximização da rentabilidade por veículo.
 
+## 🖥️ Visualização do Dashboard
+
+Abaixo estão as capturas de tela das principais páginas do dashboard:
+
+### Visão 1: Visão Geral e Performance
+
+![Visão Geral](https://raw.githubusercontent.com/DarcyAguiar/data_science/main/DashBordLogistica/Screenshot_1.png)
+
+
+### Visão 2: Análise de Veículos e Rentabilidade por Marca
+
+![Análise de Veículos](https://raw.githubusercontent.com/DarcyAguiar/data_science/main/DashBordLogistica/Screenshot_3.png)
+
+### Visão 3: Custo Detalhado da Frota
+
+![Custo com Frota](https://raw.githubusercontent.com/DarcyAguiar/data_science/main/DashBordLogistica/Screenshot_2.png)
+
 ## 🛠️ Tecnologias e Ferramentas
 
 | Categoria         | Ferramenta / Linguagem | Propósito                                                  |
@@ -31,24 +48,7 @@ O dashboard é organizado em três visões principais: Visão Geral, Análise de
 - **Custo de Referência:** Monitoramento do Custo por KM Rodado (Ex: R$ 4,03) e Custo por Ton Transportada (R$ 537,35).
 - **Otimização:** Identificação dos veículos de maior custo diário (e.g., TRUCK - R$ 683,39/dia), fundamental para decisões de manutenção e alocação.
 
-## 🖥️ Visualização do Dashboard
+📥 **Download do Dashboard:**  
+[🔗 Dashboard Logistica.pbix](https://github.com/DarcyAguiar/data_science/raw/refs/heads/main/DashBordLogistica/Dashboard%20Logistica.pbix)
 
-Abaixo estão as capturas de tela das principais páginas do dashboard:
 
-### Visão 1: Visão Geral e Performance
-
-![Visão Geral](img/Screenshot_1.png)
-
-### Visão 2: Análise de Veículos e Rentabilidade por Marca
-
-![Análise de Veículos](img/Screenshot_3.png)
-
-### Visão 3: Custo Detalhado da Frota
-
-![Custo com Frota](img/Screenshot_2.png)
-
-## ▶️ Como Executar o Projeto
-
-Para explorar o dashboard interativo:
-
-**Download:** Clone este repositório ou baixe o arquivo `https://github.com/DarcyAguiar/data_science/raw/refs/heads/main/DashBordLogistica/Dashboard%20Logistica.pbix`.
