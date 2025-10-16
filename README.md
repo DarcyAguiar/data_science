@@ -42,9 +42,14 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 -->
 
 ## Projetos:
+
+#### Machine Learning
 * **Transformando Dados Categóricos em Valor: Um Estudo de Regressão** https://bit.ly/3Sj5PZP
 * **Modelagem Estatística em Indicadores Socioeconômicos com Regressão Linear** https://bit.ly/4lUvZjm
 *  **Projeto de Ciência de Dados: Da Preparação e Balanceamento de Classes com Dados Anonimizados à Modelagem Preditiva Preditiva - Parte I** https://bit.ly/3IqlRzt
 *  **Projeto de Ciência de Dados: Da Preparação e Balanceamento de Classes com Dados Anonimizados à Modelagem Preditiva Preditiva - Parte II**https://bit.ly/44woSqO
-* **Dashboard Interativo de Suporte Técnico com Power BI** https://bit.ly/3Sb8JQj (⚠️ O link leva diretamente ao download do arquivo)
+
+#### Power BI 
+* **Dashboard Logística** 
+* **Dashboard Interativo de Suporte Técnico** https://bit.ly/3Sb8JQj (⚠️ O link leva diretamente ao download do arquivo)
 
