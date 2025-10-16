@@ -50,6 +50,6 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 *  **Projeto de Ciência de Dados: Da Preparação e Balanceamento de Classes com Dados Anonimizados à Modelagem Preditiva Preditiva - Parte II**https://bit.ly/44woSqO
 
 #### Power BI 
-* **Dashboard Logística** 
+* **Dashboard Logística**  - 📄 [Ver documentação do projeto](https://github.com/DarcyAguiar/data_science/blob/main/DashBordLogistica/DashBordLogistica.md)
 * **Dashboard Interativo de Suporte Técnico** https://bit.ly/3Sb8JQj (⚠️ O link leva diretamente ao download do arquivo)
 
