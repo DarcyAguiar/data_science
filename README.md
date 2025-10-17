@@ -14,16 +14,20 @@
  </p>-->
 
 # Darcy Aguiar
-<!--# data_science
-Iniciei recentemente meus estudos em Data Science, usarei este espaço para compartilhar meus projetos. Atualmente sou Técnico de Suporte TI contribuindo com as equipes de desenvolvimento mobile e web em uma empresa focada em desenvolvimento de software de gestão, possuo quatro anos de experiência como suporte ao usuário, redes de computadores e testes de softwares.  -->
 
 
 
 🎯 Sobre mim
 
-Com 9 anos de experiência em Suporte Técnico e Infraestrutura de TI, desenvolvi uma base sólida em resolução de problemas e lógica computacional, habilidades que agora aplico em minha transição para Ciência de Dados. Meu foco atual está em Machine Learning, análise estatística, engenharia de features e Power BI, com o objetivo de criar modelos preditivos e soluções baseadas em dados.
+<!--#<Com 9 anos de experiência em Suporte Técnico e Infraestrutura de TI, desenvolvi uma base sólida em resolução de problemas e lógica computacional, habilidades que agora aplico em minha transição para Ciência de Dados. Meu foco atual está em Machine Learning, análise estatística, engenharia de features e Power BI, com o objetivo de criar modelos preditivos e soluções baseadas em dados.
 
-Aqui, compartilho projetos que refletem minha jornada: desde análises exploratórias até algoritmos de ML (como regressão, classificação e NLP), sempre com atenção à interpretabilidade dos resultados e ao impacto business. 
+qui, compartilho projetos que refletem minha jornada: desde análises exploratórias até algoritmos de ML (como regressão, classificação e NLP), sempre com atenção à interpretabilidade dos resultados e ao impacto business.-->
+
+Analista de Dados com formação em Ciência de Dados e Sistemas de Informação, dedicado a transformar dados em inteligência estratégica.
+Tenho experiência prática com Python, SQL, Power BI e modelagem estatística, aplicando machine learning e análise exploratória para gerar insights que otimizam processos e orientam decisões.
+Minha base sólida em infraestrutura e suporte técnico me permite compreender profundamente a jornada dos dados da coleta ao modelo preditivo, garantindo qualidade, segurança e valor real para o negócio.
+Busco aplicar meu conhecimento para melhorar a eficiência operacional, identificar oportunidades escondidas em bases de dados e apoiar decisões baseadas em evidências.
+ 
 
 Este portfólio registra minha evolução e abre portas para colaborações em projetos desafiadores. Vamos conversar?
 
