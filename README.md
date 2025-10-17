@@ -44,10 +44,10 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 ## Projetos:
 
 #### Machine Learning
-* **Transformando Dados Categóricos em Valor: Um Estudo de Regressão** https://bit.ly/3Sj5PZP
-* **Modelagem Estatística em Indicadores Socioeconômicos com Regressão Linear** https://bit.ly/4lUvZjm
-*  **Projeto de Ciência de Dados: Da Preparação e Balanceamento de Classes com Dados Anonimizados à Modelagem Preditiva Preditiva - Parte I** https://bit.ly/3IqlRzt
-*  **Projeto de Ciência de Dados: Da Preparação e Balanceamento de Classes com Dados Anonimizados à Modelagem Preditiva Preditiva - Parte II**https://bit.ly/44woSqO
+* **Transformando Dados Categóricos em Valor: Um Estudo de Regressão** - 📄 [Ver documentação do projeto](https://github.com/DarcyAguiar/data_science/blob/ab847b0cf29d9527bbe73f06e6ded3e0a5f971fe/Transformando%20Dados%20Categ%C3%B3ricos%20em%20Valor%20Um%20Estudo%20de%20Regress%C3%A3o.ipynb)
+* **Modelagem Estatística em Indicadores Socioeconômicos com Regressão Linear** - 📄 [Ver documentação do projeto](https://github.com/DarcyAguiar/data_science/blob/main/Modelagem%20Estat%C3%ADstica%20em%20Indicadores%20Socioecon%C3%B4micos%20com%20Regress%C3%A3o%20Linear.ipynb)
+*  **Projeto de Ciência de Dados: Da Preparação e Balanceamento de Classes com Dados Anonimizados à Modelagem Preditiva Preditiva - Parte I** - 📄 [Ver documentação do projeto](https://github.com/DarcyAguiar/data_science/blob/main/Prepara%C3%A7%C3%A3o%20e%20Balanceamento%20de%20Classes%20com%20Dados%20Anonimizados.ipynb)
+*  **Projeto de Ciência de Dados: Da Preparação e Balanceamento de Classes com Dados Anonimizados à Modelagem Preditiva Preditiva - Parte II** - 📄 [Ver documentação do projeto](https://github.com/DarcyAguiar/data_science/blob/main/Dados%20Anonimizados%20%C3%A0%20Modelagem%20Preditiva.ipynb)
 
 #### Power BI 
 * **Dashboard Logística**  - 📄 [Ver documentação do projeto](https://github.com/DarcyAguiar/data_science/blob/main/DashBordLogistica/DashBordLogistica.md)
